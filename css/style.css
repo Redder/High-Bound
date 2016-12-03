@@ -9,3 +9,9 @@ tbody > tr > td.footable-first-visible:hover {
 .school-name, p {
         text-align: center;
 }
+
+#begin {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
