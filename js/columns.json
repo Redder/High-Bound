@@ -1,0 +1,6 @@
+[
+  {"name":"school_name","title":"School Name"},
+  {"name":"dbn","title":"DBN"},
+  {"name":"boro","title":"City","breakpoints":"xs sm","style":{"maxWidth":200,"overflow":"hidden","textOverflow":"ellipsis","wordBreak":"keep-all","whiteSpace":"nowrap"}},
+  {"name":"primary_address_line_1","title":"Address","breakpoints":"xs sm md"}
+]

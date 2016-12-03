@@ -1,0 +1,11 @@
+tbody > tr > td.footable-first-visible {
+}
+
+tbody > tr > td.footable-first-visible:hover {
+    color: blue;
+    text-decoration-line: underline;
+}
+
+.school-name, p {
+        text-align: center;
+}
